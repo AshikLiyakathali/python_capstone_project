@@ -1,0 +1,128 @@
+product_line_type_cd,product_line_cd,product_type_cd,super_line,company_line,major_line,pg_sub_line,line_type_desc,planning_category,pg_sub_line_rollup,super_line_split
+0101,01,01,Auto,Casualty,Casualty,Casualty Auto,Family Private Passenger Auto,AUTO,Auto,Auto
+0102,01,02,Auto,Casualty,Casualty,Casualty Auto,Family Business Private Passenger,AUTO,Auto,Auto
+0103,01,03,Auto,Casualty,Casualty,Casualty Auto,Family Other,AUTO,Auto,Auto
+0104,01,04,Auto,Casualty,Casualty,Casualty Auto,Family Assigned Risk No Rec,AUTO,Auto,Auto
+0105,01,05,Auto,Casualty,Casualty,Casualty Auto,Family Assigned Risk w/Rec,AUTO,Auto,Auto
+0106,01,06,Auto,Casualty,Casualty,Casualty Auto,Family Fleet,AUTO,Auto,Auto
+0107,01,07,Auto,Casualty,Casualty,Casualty Auto,Family Basic Auto,AUTO,Auto,Auto
+0108,01,08,Auto,Casualty,Casualty,Casualty Auto,Family Business,AUTO,Auto,Auto
+0201,02,01,Auto,ASIC Auto,ASIC Auto,ASIC Auto,Std Private Passenger Auto,ASIC,Auto,Auto
+0202,02,02,Auto,ASIC Auto,ASIC Auto,ASIC Auto,Std Business Private Passenger,ASIC,Auto,Auto
+0203,02,03,Auto,ASIC Auto,ASIC Auto,ASIC Auto,Std Other,ASIC,Auto,Auto
+0204,02,04,Auto,ASIC Auto,ASIC Auto,ASIC Auto,Std Non-Owned Auto,ASIC,Auto,Auto
+0206,02,06,Auto,ASIC Cycle,ASIC Auto,ASIC Cycle,Std Motorcycle,ASIC,Cycle,Auto
+0210,02,10,The General,The General,The General,The General,The General,ASIC,The General,The General
+0302,03,02,Auto,Casualty,Casualty,Personal Umbrella,Personal Umbrella,PERSONAL UMBRELLA,Personal Umbrella,Auto
+0401,04,01,Property,Fire,Fire,Dwelling Fire,Dwelling Fire Basic Form,PROPERTY,Homeowners,Property
+0402,04,02,Property,Fire,Fire,Dwelling Fire,Dwelling Fire Broad Form,PROPERTY,Homeowners,Property
+0409,04,09,Property,Fire,Fire,Dwelling Fire,Seasonal Mobile Home Fire,PROPERTY,Homeowners,Property
+0500,05,00,Health,Health,Health,Healthcare,Healthcare,OTHER,Healthcare,Health
+0501,05,01,Health,Health,Health,Health,Regular Hospital,OTHER,Health,Health
+0502,05,02,Health,Health,Health,Health,Disability Income,OTHER,Health,Health
+0504,05,04,Health,Health,Health,Health,Major Medical,OTHER,Health,Health
+0505,05,05,Health,Health,Health,Health,Franchise Health,OTHER,Health,Health
+0506,05,06,Health,Health,Health,Health,Lifetime Hospital,OTHER,Health,Health
+0507,05,07,Health,Health,Health,Health,Family Accident,OTHER,Health,Health
+0508,05,08,Health,Health,Health,Health,Hospital Income,OTHER,Health,Health
+0509,05,09,Health,Health,Health,Health,Comprehensive Health,OTHER,Health,Health
+0510,05,10,Health,Health,Health,Health,Medical Supplement,OTHER,Health,Health
+0511,05,11,Health,Health,Health,Health,Gold Star Health,OTHER,Health,Health
+0513,05,13,Health,Health,Health,Health,Premium Care,OTHER,Health,Health
+0515,05,15,Health,Health,Health,Health,Standard Health,OTHER,Health,Health
+0517,05,17,Health,Health,Health,Health,Annual Accident,OTHER,Health,Health
+0518,05,18,Health,Health,Health,Health,Long Term Care Qualified,OTHER,Health,Health
+0519,05,19,Health,Health,Health,Health,Long Term Care Basic,OTHER,Health,Health
+0520,05,20,Health,Health,Health,Health,Long Term Care Standard,OTHER,Health,Health
+0521,05,21,Health,Health,Health,AmChoice,AmChoice,OTHER,AmChoice,Health
+0522,05,22,Health,Health,Health,AmChoice Plus,AmChoice Plus,OTHER,AmChoice Plus,Health
+0523,05,23,Health,Health,Health,Health,Qualified Long-Term Care Policy II,OTHER,Health,Health
+0524,05,24,Health,Health,Health,Health,High Deductible Health Plan,OTHER,Health,Health
+0535,05,35,Health,AE Health,Health,Health,AE Short Term Medical,OTHER,Health,Health
+0536,05,36,Health,AE Health,Health,Health,AE Medicare Supplement,OTHER,Health,Health
+0538,05,38,Health,AE Health,Health,Health,AE Care Assist,OTHER,Health,Health
+0539,05,39,Health,AE Health,Health,Health,AE Supplemental Medical,OTHER,Health,Health
+0600,06,00,Property,Fire,Fire,Homeowners,Homeowners Form 3,PROPERTY,Homeowners,Property
+0601,06,01,Property,Fire,Fire,Homeowners,Homeowners Form 1,PROPERTY,Homeowners,Property
+0602,06,02,Property,Fire,Fire,Homeowners,Homeowners Form 2,PROPERTY,Homeowners,Property
+0603,06,03,Property,Fire,Fire,Renters,Homeowners Form 4 (Renters),PROPERTY,Condo & Renters,Property
+0604,06,04,Property,Fire,Fire,Boat Owners,Boatowners,PROPERTY,Boat Owners & Watercraft,Property
+0605,06,05,CFR,Farm Ranch,Farm/Ranch,Farm/Ranch,Farm/Ranch (Abest),COMMERCIAL & FARM RANCH,Farm/Ranch,Farm/Ranch
+0606,06,06,Property,Fire,Fire,Homeowners,Homeowners Gold Star,PROPERTY,Homeowners,Property
+0607,06,07,Property,Fire,Fire,Custom Value,Repair Cost or Custom Value,PROPERTY,Custom Value,Property
+0609,06,09,Property,Fire,Fire,Mobile Home,Mobile Home,PROPERTY,Mfr & Mobile Homes,Property
+0635,06,35,Property,Fire,Fire,Condo,Homeowners Form 6 (Condo),PROPERTY,Condo & Renters,Property
+0641,06,41,Property,Fire,Fire,Homeowners,Advance Homeowners,PROPERTY,Homeowners,Property
+0642,06,42,Property,Fire,Fire,Manufactured Homeowners,Advance Manufactured Homes,PROPERTY,Mfr & Mobile Homes,Property
+0643,06,43,Property,Fire,Fire,Manufactured Homeowners,Advance Condos,PROPERTY,Mfr & Mobile Homes,Property
+0644,06,44,Property,Fire,Fire,Renters,Advance Renters,PROPERTY,Condo & Renters,Property
+0645,06,45,Property,Fire,Fire,Watercraft,Boatowners,PROPERTY,Boat Owners & Watercraft,Property
+0695,06,95,Property,Fire,Fire,Mobile Home,Mobile/Manufactured Homeowners Gold Star,PROPERTY,Mfr & Mobile Homes,Property
+0703,07,03,AFFS,AFFS,AFFS,AFFS,AFFS Open Ended Loans,BROKERAGE,AFFS,AFFS
+0800,08,00,Life,AFLIC,AFLIC,AFLIC,Traditional Life,LIFE,AFLIC,Life
+0801,08,01,Life,AFLIC,AFLIC,AFLIC,Universal Life,LIFE,AFLIC,Life
+0802,08,02,Life,AFLIC,AFLIC,AFLIC,Annuity Life,LIFE,AFLIC,Life
+0803,08,03,Life,AFLIC,AFLIC,AFLIC,Variable Universal Life,LIFE,AFLIC,Life
+0804,08,04,Life,AFLIC,AFLIC,AFLIC,Variable Annuity,LIFE,AFLIC,Life
+0806,08,06,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0807,08,07,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0808,08,08,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0811,08,11,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0812,08,12,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0813,08,13,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0818,08,18,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0819,08,19,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0821,08,21,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0822,08,22,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0823,08,23,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0824,08,24,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0825,08,25,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0826,08,26,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0827,08,27,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0828,08,28,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0829,08,29,Life,AFLIC,AFLIC,AFLIC,,LIFE,AFLIC,Life
+0901,09,01,CFR,Commercial,Commercial,Other Commercial,Workers Compensation,COMMERCIAL & FARM RANCH,Other Commercial,Commercial
+0902,09,02,CFR,Commercial,Commercial,Other Commercial,General Liability,COMMERCIAL & FARM RANCH,Other Commercial,Commercial
+0905,09,05,CFR,Commercial,Commercial,Other Commercial,Business Property,COMMERCIAL & FARM RANCH,Other Commercial,Commercial
+0907,09,07,CFR,Commercial,Commercial,Other Commercial,Business Key (including Auto),COMMERCIAL & FARM RANCH,Other Commercial,Commercial
+0908,09,08,CFR,Commercial,Commercial,BOP,Business Owners Package (including Auto ),COMMERCIAL & FARM RANCH,BKP & BOP,Commercial
+0909,09,09,CFR,Commercial,Commercial,SBSS Business Owners (BOP),Business Owners Package (including Auto ),COMMERCIAL & FARM RANCH,SBSS,Commercial
+0910,09,10,CFR,Commercial,Commercial,Commercial Auto,Business Auto - ODS,COMMERCIAL & FARM RANCH,Commercial Auto,Commercial
+0911,09,11,CFR,Commercial,Commercial,BOP,Business Owners - ODS,COMMERCIAL & FARM RANCH,BKP & BOP,Commercial
+0912,09,12,CFR,Commercial,Commercial,Other Commercial,D&O - ODS,COMMERCIAL & FARM RANCH,Other Commercial,Commercial
+0913,09,13,CFR,Commercial,Commercial,Commercial Umbrella,Commercial Umbrella - ODS,COMMERCIAL & FARM RANCH,Commercial Umbrella,Commercial
+0914,09,14,CFR,Commercial,Commercial,SBSS General Liability/IM,General Liability,COMMERCIAL & FARM RANCH,SBSS,Commercial
+0915,09,15,CFR,Commercial,Commercial,SBSS Work Comp,Workers Compensation,COMMERCIAL & FARM RANCH,SBSS,Commercial
+0916,09,16,CFR,Commercial,Commercial,SBSS Commercial Auto,Commercial Auto,COMMERCIAL & FARM RANCH,SBSS,Commercial
+0932,09,32,CFR,Commercial,Farm/Ranch,Farm/Ranch Umbrella,Business Farm Ranch Umbrella,COMMERCIAL & FARM RANCH,Farm/Ranch Umbrella,Farm/Ranch
+0981,09,81,CFR,Commercial,Commercial,Work Comp,ABEST Workers Compensation,COMMERCIAL & FARM RANCH,Work Comp,Commercial
+0982,09,82,CFR,Commercial,Commercial,Other Commercial,ABEST General Liability,COMMERCIAL & FARM RANCH,Other Commercial,Commercial
+0983,09,83,CFR,Commercial,Commercial,Other Commercial,ABEST Inland Marine,COMMERCIAL & FARM RANCH,Other Commercial,Commercial
+0984,09,84,CFR,Commercial,Commercial,Other Commercial,ABEST Crime,COMMERCIAL & FARM RANCH,Other Commercial,Commercial
+0985,09,85,CFR,Commercial,Commercial,Other Commercial,ABEST Business Property,COMMERCIAL & FARM RANCH,Other Commercial,Commercial
+0987,09,87,CFR,Commercial,Commercial,BKP,ABEST Business Key,COMMERCIAL & FARM RANCH,BKP & BOP,Commercial
+1000,10,00,Brokerage,Brokerage,Brokerage,Brokerage,Brokerage,BROKERAGE,Brokerage,Brokerage
+1001,10,01,Brokerage,Brokerage,Brokerage,B&A Business Auto,B&A Business Auto,BROKERAGE,B&A Business Auto,Brokerage
+1002,10,02,Brokerage,Brokerage,Brokerage,B&A Commercial Products,B&A Commercial Products,BROKERAGE,B&A Commercial Products,Brokerage
+1003,10,03,Brokerage,Brokerage,Brokerage,B&A Workers Comp,B&A Workers Comp,BROKERAGE,B&A Workers Comp,Brokerage
+1004,10,04,Brokerage,Brokerage,Brokerage,B&A Life,B&A Life,BROKERAGE,B&A Life,Brokerage
+1005,10,05,Brokerage,Brokerage,Brokerage,B&A Annuities,B&A Annuities,BROKERAGE,B&A Annuities,Brokerage
+1006,10,06,Brokerage,Brokerage,Brokerage,B&A Personal Auto,B&A Personal Auto,BROKERAGE,B&A Personal Auto,Brokerage
+1007,10,07,Brokerage,Brokerage,Brokerage,B&A Motorcycle/Snowmobile/Boat/ATV,B&A Motorcycle/Snowmobile/Boat/ATV,BROKERAGE,B&A Motorcycle/Snowmobile/Boat/ATV,Brokerage
+1008,10,08,Brokerage,Brokerage,Brokerage,B&A Homeowners,B&A Homeowners,BROKERAGE,B&A Homeowners,Brokerage
+1009,10,09,Brokerage,Brokerage,Brokerage,B&A Umbrella,B&A Umbrella,BROKERAGE,B&A Umbrella,Brokerage
+1010,10,10,Brokerage,Brokerage,Brokerage,B&A PL Package,B&A PL Package,BROKERAGE,B&A PL Package,Brokerage
+1011,10,11,Brokerage,Brokerage,Brokerage,B&A Group Health,B&A Group Health,BROKERAGE,B&A Group Health,Brokerage
+1012,10,12,Brokerage,Brokerage,Brokerage,B&A Surety Bonds,B&A Surety Bonds,BROKERAGE,B&A Surety Bonds,Brokerage
+1013,10,13,Brokerage,Brokerage,Brokerage,B&A Crop/Hail,B&A Crop/Hail,BROKERAGE,B&A Crop/Hail,Brokerage
+1014,10,14,Brokerage,Brokerage,Brokerage,B&A Individual Health - Ancillary,B&A Individual Health - Ancillary,BROKERAGE,B&A Individual Health - Ancillary,Brokerage
+1016,10,16,Brokerage,Brokerage,Brokerage,B&A The General,B&A The General,BROKERAGE,B&A The General,Brokerage
+1101,11,01,,,,,,,[NULL],
+2001,20,01,Auto,Advance Vehicle,Casualty,Family Car,Family Car,AUTO,Auto,Auto
+2002,20,02,Auto,Advance Vehicle,Casualty,Cycle,Advance Cycle,AUTO,Cycle,Auto
+2003,20,03,Auto,Advance Vehicle,Casualty,Misc. Vehicle,Family Other,AUTO,Auto,Auto
+2004,20,04,Property,Advance Vehicle,Fire,Watercraft,Boatowners,PROPERTY,Boat Owners & Watercraft,Property
+2101,21,01,Property,Advance Property,Fire,Homeowners,Advance Homeowners,PROPERTY,Homeowners,Property
+2102,21,02,Property,Advance Property,Fire,Renters,Advance Renters,PROPERTY,Condo & Renters,Property
+2103,21,03,Property,Advance Property,Fire,Condo,Advance Condos,PROPERTY,Condo & Renters,Property
+2104,21,04,Property,Advance Property,Fire,Manufactured Homes,Advance Manufactured Homes,PROPERTY,Mfr & Mobile Homes,Property
